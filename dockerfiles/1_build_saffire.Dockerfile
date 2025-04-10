@@ -9,7 +9,7 @@
 # 2022 MITRE eCTF competition, and may not meet MITRE standards for quality.
 # Use this code at your own risk!
 
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 # Add environment customizations here
 # NOTE: do this first so Docker can used cached containers to skip reinstalling everything
